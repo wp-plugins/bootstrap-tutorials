@@ -1,5 +1,5 @@
 === Bootstrap Tutorials ===
-Contributors: MADIRISALMANAASHISH
+Contributors: madiriaashish
 Tags:  bootstrap forms, jquery forms, form manager, ajax forms,registration
 Requires at least: 3.3
 Tested up to: 4.2.2
